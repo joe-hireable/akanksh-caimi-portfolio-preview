@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.openai/
+~$*
+*.tmp
